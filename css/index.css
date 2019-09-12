@@ -1,3 +1,14 @@
+.border-bottom {
+  border-bottom: 4px dashed #C0C0C0;
+}
+.btn {
+  background-color: #17A2B8;
+  color: #FFFFFF;
+  padding: 4% 3%;
+  border-radius: 8px;
+  font-size: 1.6rem;
+  text-align: center;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -235,6 +246,10 @@ header .header-items h1 {
 }
 .home .content-section .img-content img {
   border-radius: 10px;
+}
+.home .welcome {
+  border-bottom: 4px dashed #C0C0C0;
+  padding-bottom: 2%;
 }
 .home .inverse-content {
   padding-bottom: 30px;
